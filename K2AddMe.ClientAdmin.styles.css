@@ -1,0 +1,29 @@
+/* /Shared/LoginDisplay.razor.rz.scp.css */
+.authbutton[b-p8k4as6xlw] {
+    padding: 0.3rem 1rem;
+    border-radius: 0.4rem;
+}
+
+    .authbutton + .authbutton[b-p8k4as6xlw] {
+        margin-left: 0.75rem;
+    }
+
+    .authbutton:hover[b-p8k4as6xlw] {
+        background-color: rgba(255,255,255,0.2);
+    }
+
+    .authbutton:active[b-p8k4as6xlw] {
+        background-color: rgba(255,255,255,0.3);
+    }
+
+.user-menu[b-p8k4as6xlw] {
+    opacity: 0;
+    transform: scaleY(0.00);
+    transform-origin: top center;
+    transition: opacity 0.3s ease-in-out, transform .15s ease-in-out;
+}
+
+.authbutton:focus-within .user-menu[b-p8k4as6xlw] {
+    opacity: 1;
+    transform: scaleY(1);
+}
