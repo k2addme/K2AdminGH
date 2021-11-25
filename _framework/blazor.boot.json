@@ -9,7 +9,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "K2AddMe.ClientAdmin.dll": "sha256-GmJ7rQ9wNaORyNPx5H1nvTZcXkhJ1OZQOp+KD56ZSaQ=",
+      "K2AddMe.ClientAdmin.dll": "sha256-yBNoiAaud7JoXlGuAJUrcHKUh8BUKGfeGgp2+7esTDg=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-WGdyiNYS8b5QlacUxFWnMCXSRxNCiTcMRszQqg\/+4tY=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-pJhJUyK+Keb6Y2KS88dHTklO59WZe6nGArXGLtzs7ng=",
       "Microsoft.AspNetCore.Components.dll": "sha256-QLO9hVqQj9fiG2iq5uBe13v8punmsaMdzHXF3AtK\/ds=",
